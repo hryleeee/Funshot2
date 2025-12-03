@@ -1,1 +1,38 @@
+﻿# Android/Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK files
+*.apk
+*.ap_
+*.aab
+
+# Java class files
+*.class
+
+# Log Files
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services
+google-services.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*~
+*.swp
+*.bak
 
